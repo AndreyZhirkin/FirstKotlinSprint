@@ -2,7 +2,7 @@ package lesson_1
 
 fun main (){
     val amountOrders = 75
-    val thankPage = "Спасибо за покупку!"
+    val thankPage = "CРїР°СЃРёР±Рѕ Р·Р° РїРѕРєСѓРїРєСѓ!"
     val rectangleHeight: Int
     val rectangleWidth: Int
 
