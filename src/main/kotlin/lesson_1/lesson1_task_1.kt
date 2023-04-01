@@ -5,5 +5,4 @@ fun main (){
     val thankPage = "Cпасибо за покупку!"
     val rectangleHeight: Int
     val rectangleWidth: Int
-
 }
