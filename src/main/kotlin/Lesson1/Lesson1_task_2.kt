@@ -7,7 +7,7 @@ fun main (){
     val rectangleWidth: Int = 8
     println("$amountOrders \n$thankPage \n$rectangleHeight, $rectangleWidth")
     var quantityEmployees = 2000
-    // println("$quantityEmployees")
+    /* println("$quantityEmployees") */
     quantityEmployees = 1999
     println("$quantityEmployees")
 }
