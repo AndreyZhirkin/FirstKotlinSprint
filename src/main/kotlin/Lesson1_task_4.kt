@@ -1,5 +1,5 @@
 fun main() {
-    val length: String = "40_868_600_000"
+    val length: Long = 40_868_600_000
     val age: Byte = 27
     val partOfDay: Double = 0.075
     val seconds: Short = 6480
